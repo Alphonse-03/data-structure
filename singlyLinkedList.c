@@ -191,6 +191,7 @@ void choice()
                       display();
                       break;
         case 8:c=lenght();
+                printf("length of the node is %d",c);
                       break;
         case 9:display();
                       break;
