@@ -4,7 +4,7 @@
 struct node
 {
     char data[20];
-    struct data *next;
+    struct node *next;
 }*head,*tail,*temp,*newnode,*temp2,*temp3;
 
 void createSingleNode()
