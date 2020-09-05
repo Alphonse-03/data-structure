@@ -1,3 +1,4 @@
+/* not in working condition needs some modification if the testcase has duplicate at the last index then it returns a NULL */ 
 #include <stdio.h>
 #include <stdlib.h>
 
