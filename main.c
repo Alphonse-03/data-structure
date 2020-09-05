@@ -1,3 +1,6 @@
+/* program to seperate constants and vowels from a linked list 
+   i have used array in place of character because my input buffer was not getting cleared automatically
+   have fun by alphonse prakash from 6th september 2020 */
 #include <stdio.h>
 #include <stdlib.h>
 struct node
